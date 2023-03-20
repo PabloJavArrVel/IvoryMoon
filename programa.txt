@@ -1,0 +1,13 @@
+# Cuadrado
+
+borrarTodo
+
+arriba(100)
+derecha(100)
+abajo(100)
+izquierda(100)
+girarRaton(20)
+
+# Cambiar color de fondo
+
+cambiaColorDeFondo(azul)
